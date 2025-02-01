@@ -24,7 +24,7 @@ def print_inline(item : str) -> None:
     """
     print(item, end="")
 
-def display_vertical_text(text : str, pause=0.1) -> None:
+def display_vertical_text(text : str, pause=0.2) -> None:
     """Affiche un texte progressivement à la verticale.
 
     Args:
