@@ -40,4 +40,4 @@ Exemple - test:
 1. **Terminal compatible avec les séquences ANSI**  
 2. **Présence du fichier `ascii_art.py` dans le même dossier que `projet.py`**  
 
-[DevByDelta](https://github.com/DevByDelta/30-Jours-30-Projets)
+[DevByDelta](https://github.com/DevByDelta/30-Jours-30-Projets-Python)
