@@ -38,6 +38,7 @@ Exemple - test:
 
 ### 📌 **Prérequis**  
 1. **Terminal compatible avec les séquences ANSI**  
-2. **Présence du fichier `ascii_art.py` dans le même dossier que `projet.py`**  
+2. **Présence du fichier `ascii_art.py` dans le même dossier que `projet.py`** 
+3. **Taille de fenêtre minimal pour afficher le texte entier**
 
-[DevByDelta](https://github.com/DevByDelta/30-Jours-30-Projets-Python)
+[@DevByDelta](https://github.com/DevByDelta/30-Jours-30-Projets-Python)

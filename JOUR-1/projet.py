@@ -52,6 +52,6 @@ def display_vertical_text(text : str, pause=0.2) -> None:
 
 if __name__ == "__main__":
     # TEST
-    display_vertical_text(ASCII.MAP)
+    display_vertical_text(ASCII.ASTERIX)
 
 # @DevByDelta
